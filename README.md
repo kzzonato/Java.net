@@ -3,8 +3,8 @@
 
  A biblioteca Java.net é um pacote de classes e interfaces que fornecem suporte para programação de rede em Java. Ela é dividida em duas partes principais:
 
-Nível baixo: fornece classes para representar endereços de rede, sockets e outros componentes básicos de comunicação de rede.
-Nível alto: fornece classes para realizar tarefas comuns de rede, como acessar recursos da web, enviar e receber dados e conectar-se a servidores.
+- Nível baixo: fornece classes para representar endereços de rede, sockets e outros componentes básicos de comunicação de rede.
+- Nível alto: fornece classes para realizar tarefas comuns de rede, como acessar recursos da web, enviar e receber dados e conectar-se a servidores.
 
 # ☕ O que é ?
 
